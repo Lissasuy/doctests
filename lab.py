@@ -597,10 +597,9 @@ def largest(xs):
     None
     '''
     if not xs:
-        print("None")
-        return 
-    return max(xs)      
-
+        print (None)
+        return None
+    return max(xs)
 
 def last_element(xs):
     '''
