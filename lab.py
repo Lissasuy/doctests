@@ -601,6 +601,7 @@ def largest(xs):
         return None
     return max(xs)
 
+
 def last_element(xs):
     '''
     Return the last element of the input list.
