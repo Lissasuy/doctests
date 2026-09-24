@@ -598,7 +598,7 @@ def largest(xs):
     '''
     if not xs:
         print("None")
-        return None
+        return 
     return max(xs)      
 
 
